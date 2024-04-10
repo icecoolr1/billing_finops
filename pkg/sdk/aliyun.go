@@ -47,7 +47,6 @@ func (a *Aliyun) GetBalance() (float64, error) {
 }
 
 func (a *Aliyun) GetTodayBill() (float64, error) {
-
 	// 获得今日账单
 	month := time.Now().Format("2006-01")
 	date := time.Now().Format(time.DateOnly)

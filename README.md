@@ -1,5 +1,5 @@
 # billing_finops
-- a simple billing and financial export tool for ALIYUN
+- a simple billing and financial export tool for **ALIYUN**
 - easy to work with prometheus and grafana
 
 
