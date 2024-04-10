@@ -1,0 +1,7 @@
+clouds:
+  list:
+    - name: aliyun
+      auth:
+        access_key_id: foo
+        access_key_secret: foo
+
